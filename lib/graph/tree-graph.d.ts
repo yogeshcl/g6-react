@@ -51,7 +51,7 @@ export default class TreeGraph extends Graph implements ITreeGraph {
      * 更改并应用树布局算法
      * @param {object} layout 布局算法
      */
-    updateLayout(layout: any, stack?: boolean): void;
+    updateLayout(layout: any, align?:"center", alignPoint?:any, stack?: boolean): void;
     /**
      * 已更名为 layout，为保持兼容暂且保留。
      * 根据目前的 data 刷新布局，更新到画布上。用于变更数据之后刷新视图。
