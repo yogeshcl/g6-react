@@ -71,6 +71,7 @@
     "@antv/algorithm": "^0.1.8",
     "@antv/dom-util": "^2.0.1",
     "@antv/event-emitter": "~0.1.0",
+    "@yogeshcl/g-base-react-ba": "~0.0.1",
     "@antv/g-canvas": "^0.5.2",
     "@antv/g-math": "^0.1.1",
     "@antv/g-svg": "^0.5.1",
