@@ -1,4 +1,4 @@
-import { IElement } from "@antv/g-base";
+import { IElement } from "@yogeshcl/g-base-react-ba";
 /**
  * Clone group and clone the clip shapes of image shapes.
  * @param group group to be cloned

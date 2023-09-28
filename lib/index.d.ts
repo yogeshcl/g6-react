@@ -1,5 +1,5 @@
 import { Arrow, Marker, Shape } from '@antv/g6-core';
-import { ICanvas, IGroup, IShape } from '@antv/g-base';
+import { ICanvas, IGroup, IShape } from '@yogeshcl/g-base-react-ba';
 import * as AlgorithmSync from '@antv/algorithm';
 import * as AlgorithmAsync from '@antv/algorithm/lib/asyncIndex';
 import Graph from './graph/graph';
